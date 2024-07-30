@@ -1,1 +1,3 @@
-# This is a test file.
+#rint("Test 2 file")
+
+# Сурование на стротако затрайсть
