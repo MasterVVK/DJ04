@@ -1,3 +1,3 @@
-#rint("Test 2 file")
+print("Test 2 file")
 
-# Сурование на стротако затрайсть
+	# Surovanie na strotako zatrayst
